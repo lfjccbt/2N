@@ -1,0 +1,23 @@
+{
+  "duration": 180,
+  "correctMark": 1,
+  "wrongMark": 0,
+  "activeForForms": [],
+  "subjects": [
+    {
+      "name": "MATHS",
+      "questions": 80,
+      "numerical": 0
+    },
+    {
+      "name": "PHYSICS",
+      "questions": 40,
+      "numerical": 0
+    },
+    {
+      "name": "CHEMISTRY",
+      "questions": 40,
+      "numerical": 0
+    }
+  ]
+}
