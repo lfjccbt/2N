@@ -1,21 +1,19 @@
 {
-  "duration": 180,
+  "duration": 120,
   "correctMark": 1,
   "wrongMark": 0,
-  "activeForForms": [],
+  "activeForForms": [
+    "MATHS_A",
+    "PHYSICS"
+  ],
   "subjects": [
     {
-      "name": "MATHS",
-      "questions": 80,
-      "numerical": 0
-    },
-    {
-      "name": "PHYSICS",
+      "name": "MATHS_A",
       "questions": 40,
       "numerical": 0
     },
     {
-      "name": "CHEMISTRY",
+      "name": "PHYSICS",
       "questions": 40,
       "numerical": 0
     }
